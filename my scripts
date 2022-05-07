@@ -23,3 +23,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/GS21Official/DH-TB-Cr
 
 --hood duels script 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Nosssa/NossLock/main/NosssWareKRNL"))()
+
+--fake macro/1ok gui
+loadstring(game:HttpGet('https://raw.githubusercontent.com/uzisama22/main/main/1ok')()
